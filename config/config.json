@@ -1,22 +1,22 @@
 {
   "development": {
     "username": "admin",
-    "password": "16220068",
-    "database": "OperacionesDev",
+    "password": "_tOgljaTR39rlxEylth#",
+    "database": "OperacionesDEV",
     "host": "database-1.c788yem4g4uo.us-east-2.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
     "username": "admin",
-    "password": "16220068",
-    "database": "OperacionesDev",
+    "password": "_tOgljaTR39rlxEylth#",
+    "database": "OperacionesDEV",
     "host": "database-1.c788yem4g4uo.us-east-2.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
     "username": "admin",
-    "password": "16220068",
-    "database": "OperacionesDev",
+    "password": "_tOgljaTR39rlxEylth#",
+    "database": "OperacionesDEV",
     "host": "database-1.c788yem4g4uo.us-east-2.rds.amazonaws.com",
     "dialect": "mysql"
   }
